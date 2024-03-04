@@ -14,4 +14,3 @@
 </div>
 
 
-![Snake animation](https://github.com/jorgelucasp42/jorgelucasp42/blob/output/github-contribution-grid-snake.svg)
